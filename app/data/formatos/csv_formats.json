@@ -1,0 +1,32 @@
+{
+  "csv_formats": {
+    "Padrao1": {
+      "nome_arquivo": "formato_padrao_1.csv",
+      "colunas": ["data", "categoria", "fonte", "valor", "cdi"],
+      "separador": ",",
+      "header": true,
+      "data_format": "DD/MM/YYYY"
+    },
+    "Padrao2": {
+      "nome_arquivo": "formato_padrao_2.csv",
+      "colunas": ["data", "fonte", "valor", "cdi", "categoria"],
+      "separador": ";",
+      "header": true,
+      "data_format": "DD/MM/YYYY"
+    },
+    "Padrao3": {
+      "nome_arquivo": "formato_padrao_3.csv",
+      "colunas": ["categoria", "data", "valor", "cdi", "fonte"],
+      "separador": "|",
+      "header": true,
+      "data_format": "YYYY-MM-DD"
+    },
+    "Padrao4": {
+      "nome_arquivo": "formato_padrao_4.csv",
+      "colunas": ["fonte", "data", "categoria", "valor", "cdi"],
+      "separador": "\t",
+      "header": true,
+      "data_format": "DD-MM-YYYY"
+    }
+  }
+}

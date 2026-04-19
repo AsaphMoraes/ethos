@@ -1,0 +1,9 @@
+[2026-04-18 19:49:44] Iniciando aplicativo...
+[2026-04-18 19:49:44] Processo iniciado com PID: 72016
+[2026-04-18 19:49:44] Aguardando 10 segundos para inicialização...
+[2026-04-18 19:49:45] APP: Fontconfig error: Cannot load default config file: No such file: (null)
+[2026-04-18 19:49:54] Aplicativo ainda rodando
+[2026-04-18 19:49:54] ✗ Interface web não acessível: <urlopen error [Errno 111] Connection refused>
+[2026-04-18 19:49:54] Encerrando aplicativo...
+[2026-04-18 19:49:54] Aplicativo encerrado normalmente
+[2026-04-18 19:49:54] === Debug concluído ===

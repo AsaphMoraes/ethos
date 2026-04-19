@@ -1,0 +1,9 @@
+[pywebview] Using Qt 6.11.0
+Added {--remote-allow-origins=*} to command-line arguments to avoid web socket connection errors during remote debugging.
+
+DevTools listening on ws://127.0.0.1:8228/devtools/browser/750e6578-90e6-4c82-8eb5-c2c47eae315c
+Remote debugging server started successfully. Try pointing a Chromium-based browser to http://127.0.0.1:8228
+[pywebview] before_load event fired. injecting pywebview object
+[pywebview] Loading JS files from /home/AsaphM/Documentos/github/ethos/venv/lib/python3.14/site-packages/webview/js
+[pywebview] _pywebviewready event fired
+[pywebview] loaded event fired
